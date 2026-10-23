@@ -21,7 +21,7 @@ var youtube_channel_link = "YouTube channel link";
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
-var notification_text!
+var notification_text!=''🎮 FIREX TOPUP-এ স্বাগতম!
 
 আপনার গেমিং অভিজ্ঞতাকে নিয়ে যান পরবর্তী লেভেলে। আপনার পছন্দের গেমের ডায়মন্ড, কয়েন ও অন্যান্য টপ-আপ সার্ভিস খুঁজে নিন এক জায়গায়।
 
@@ -31,4 +31,5 @@ var notification_text!
 
 আপনার গেম, আপনার স্টাইল — FIREX TOPUP!
 
-[ 🛒 TOP UP NOW ]
+[ 🛒 TOP UP NOW ]";
+  
